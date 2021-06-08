@@ -1,0 +1,13 @@
+C:\Users\kents1\source\repos\TimeSpanSortExample\TimeSpanSortExample\bin\Debug\netcoreapp3.1\TimeSpanSortExample.exe
+C:\Users\kents1\source\repos\TimeSpanSortExample\TimeSpanSortExample\bin\Debug\netcoreapp3.1\TimeSpanSortExample.deps.json
+C:\Users\kents1\source\repos\TimeSpanSortExample\TimeSpanSortExample\bin\Debug\netcoreapp3.1\TimeSpanSortExample.runtimeconfig.json
+C:\Users\kents1\source\repos\TimeSpanSortExample\TimeSpanSortExample\bin\Debug\netcoreapp3.1\TimeSpanSortExample.runtimeconfig.dev.json
+C:\Users\kents1\source\repos\TimeSpanSortExample\TimeSpanSortExample\bin\Debug\netcoreapp3.1\TimeSpanSortExample.dll
+C:\Users\kents1\source\repos\TimeSpanSortExample\TimeSpanSortExample\bin\Debug\netcoreapp3.1\TimeSpanSortExample.pdb
+C:\Users\kents1\source\repos\TimeSpanSortExample\TimeSpanSortExample\obj\Debug\netcoreapp3.1\TimeSpanSortExample.csprojAssemblyReference.cache
+C:\Users\kents1\source\repos\TimeSpanSortExample\TimeSpanSortExample\obj\Debug\netcoreapp3.1\TimeSpanSortExample.AssemblyInfoInputs.cache
+C:\Users\kents1\source\repos\TimeSpanSortExample\TimeSpanSortExample\obj\Debug\netcoreapp3.1\TimeSpanSortExample.AssemblyInfo.cs
+C:\Users\kents1\source\repos\TimeSpanSortExample\TimeSpanSortExample\obj\Debug\netcoreapp3.1\TimeSpanSortExample.csproj.CoreCompileInputs.cache
+C:\Users\kents1\source\repos\TimeSpanSortExample\TimeSpanSortExample\obj\Debug\netcoreapp3.1\TimeSpanSortExample.dll
+C:\Users\kents1\source\repos\TimeSpanSortExample\TimeSpanSortExample\obj\Debug\netcoreapp3.1\TimeSpanSortExample.pdb
+C:\Users\kents1\source\repos\TimeSpanSortExample\TimeSpanSortExample\obj\Debug\netcoreapp3.1\TimeSpanSortExample.genruntimeconfig.cache
